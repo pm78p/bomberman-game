@@ -30,11 +30,10 @@ In this game, you are a bomberman who tries to find its way to the salvation doo
 
 3- If you want to play it in a client-server way, first you need to launch a [server](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPServer.java), then go to the game from the [client](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPClient.java) and type the correct IP and port to connect to the server.
 
+__Gameplay Preview:__
+ 
+If in any case you wonder, what is all this icon that bomberman eat and nothing happend (huh), don't worry they are different boosters and abilities you can find the details in the (game-info) part.
 
-Preview
-
-Gameplay Preview
-if in any case you wonder, what is all this icon that bomberman eat and nothing happend (huh), don't worry they are different boosters and abilities you can find the details in the (game-info) part.
 ![results](https://github.com/pm78p/bomberman-game/blob/main/src/Media5gif.gif)
 
 !More than 8k lines of codes in java
