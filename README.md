@@ -24,11 +24,12 @@ In this game, you are a bomberman who tries to find its way to the salvation doo
 
 ?How to run?:
 
-1- you can easily run [this](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPSingle.java) and exprience the game without any complexity.
-    
-2- you can easily run [this](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPClient.java) and exprience the whole game.
-    
-3- if you want to play it on client server way, first you need to launche a [server](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPServer.java), then go to the game from [client](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPClient.java) and type the correct IP and port to connect to the server.
+1- You can easily run [this](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPSingle.java) and experience the game without any complexity.
+
+2- You can easily run [this](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPClient.java) and experience the entire game.
+
+3- If you want to play it in a client-server way, first you need to launch a [server](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPServer.java), then go to the game from the [client](https://github.com/pm78p/bomberman-game/blob/main/src/BoardPClient.java) and type the correct IP and port to connect to the server.
+
 
 Preview
 
