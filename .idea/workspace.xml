@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f2980cd-d756-48fe-a712-788f434e1c8a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Massage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Massage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yes1</find>
+      <find>paintserversdetail(first</find>
+      <find>tmp[0</find>
+      <find>fina</find>
+      <find>fin</find>
+      <find>exc</find>
+      <find>&quot;m &quot;</find>
+      <find>kil</find>
+      <find>kill</find>
+      <find>setPoint</find>
+      <find>playerPoint</find>
+      <find>exce</find>
+      <find>massage</find>
+      <find>++massage++</find>
+      <find>massage is sending</find>
+      <find>mass</find>
+      <find>clos</find>
+      <find>close</find>
+      <find>chn</find>
+      <find>&quot;dltbomberman</find>
+      <find>&quot;dltenmy</find>
+      <find>&quot;dltbreak</find>
+      <find>setAlive(true)</find>
+      <find>setAlive(true</find>
+      <find>System.out.println</find>
+      <find>//</find>
+      <find>Game</find>
+      <find>GameLevel</find>
+      <find>ip</find>
+      <find>port</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BoardPclient.java" />
+        <option value="$PROJECT_DIR$/src/BoardPanel.java" />
+        <option value="$PROJECT_DIR$/../phase2/src/BoardPanel.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/../tamrin/1/src/ShapeTools.java" />
+        <option value="$PROJECT_DIR$/src/Maintest.java" />
+        <option value="$PROJECT_DIR$/src/Bomb.java" />
+        <option value="$PROJECT_DIR$/src/Stuff.java" />
+        <option value="$PROJECT_DIR$/src/Piece.java" />
+        <option value="$PROJECT_DIR$/src/Chornometr.java" />
+        <option value="$PROJECT_DIR$/src/Massage.java" />
+        <option value="$PROJECT_DIR$/src/ChatFrame.java" />
+        <option value="$PROJECT_DIR$/src/GameInfo.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/Bomberman.java" />
+        <option value="$PROJECT_DIR$/src/enemyLevel1.java" />
+        <option value="$PROJECT_DIR$/src/enemyLevel2.java" />
+        <option value="$PROJECT_DIR$/src/enemyLevel3.java" />
+        <option value="$PROJECT_DIR$/src/enemyLevel4.java" />
+        <option value="$PROJECT_DIR$/../phase2/src/enemy.java" />
+        <option value="$PROJECT_DIR$/src/enemy.java" />
+        <option value="$PROJECT_DIR$/src/BoardPSingle.java" />
+        <option value="$PROJECT_DIR$/src/BoardPClient.java" />
+        <option value="$PROJECT_DIR$/src/ServerFrame.java" />
+        <option value="$PROJECT_DIR$/src/MainServer.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/BoardPServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phase3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GameInfo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="phase3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MainServer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="phase3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ServerFrame.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="ChatFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ChatFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="phase3" />
+      <envs />
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="phase3" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="phase3" />
+      <envs />
+    </configuration>
+    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MainServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="phase3" />
+      <envs />
+    </configuration>
+    <configuration name="Maintest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Maintest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="phase3" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainServer" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Maintest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ChatFrame" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainServer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ChatFrame" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Maintest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f2980cd-d756-48fe-a712-788f434e1c8a" name="Default" comment="" />
+      <created>1533299140501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533299140501</updated>
+      <workItem from="1533299143374" duration="1660000" />
+      <workItem from="1533369890427" duration="82010000" />
+      <workItem from="1533891656489" duration="8151000" />
+      <workItem from="1533905178370" duration="1063000" />
+      <workItem from="1533906527974" duration="1115000" />
+      <workItem from="1534007642056" duration="5367000" />
+      <workItem from="1534074637370" duration="16860000" />
+      <workItem from="1534103731097" duration="54081000" />
+      <workItem from="1534508901904" duration="18830000" />
+      <workItem from="1534579304770" duration="3694000" />
+      <workItem from="1534600593732" duration="8740000" />
+      <workItem from="1534850172503" duration="21605000" />
+      <workItem from="1535028115034" duration="3788000" />
+      <workItem from="1536167214030" duration="2675000" />
+      <workItem from="1536223769707" duration="885000" />
+      <workItem from="1546256499668" duration="91000" />
+      <workItem from="1546544580664" duration="39000" />
+      <workItem from="1547558785851" duration="69000" />
+      <workItem from="1653832370026" duration="1845000" />
+      <workItem from="1653835111209" duration="179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="232747000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26269317" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BoardPClient.java</url>
+          <line>452</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../clientservertraining/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tamrin/1/src/ShapeTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="51" column="11" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="51" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maintest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="428" column="0" lean-forward="false" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="349" column="0" lean-forward="false" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameInfo.java___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/../clientserver/src/Client/ClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../clientserver/src/Client/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="59" column="28" lean-forward="false" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../clientserver/src/Server/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="59" column="28" lean-forward="false" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../clientserver/src/Server/ListenThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="27" column="60" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../clientserver/src/Server/ServerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phase2/src/enemyLevel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phase2/src/enemyLevel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phase2/src/enemyLevel3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phase2/src/enemyLevel4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phase2/src/BoardPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="302" column="9" lean-forward="true" selection-start-line="290" selection-start-column="0" selection-end-line="302" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phase2/src/enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="122" column="5" lean-forward="false" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoardPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="983" column="21" lean-forward="false" selection-start-line="983" selection-start-column="21" selection-end-line="984" selection-end-column="91" />
+          <folding>
+            <element signature="method#BoardPClient#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#boardpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#boombermanpain#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#enemypaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#bombpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#BoostRadiuspaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#DisBoostRadiuspaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#BoostBombspaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#DisBoostBombspaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#BoostControlpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#BoostSpeedpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#BoostPointpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#DisBoostPointpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#DisBoostSpeedpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#BoostGhostpaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#firepaint#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#movee#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#helpexplude#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#setstone#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#resetDetails2changLvl#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#finding#0;class#BoardPClient#0" expanded="false" />
+            <element signature="method#getbooster#0;class#BoardPClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoardPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2029">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="method#BoardPServer#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#paint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#boardpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#boombermanpain#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#enemypaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#bombpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#BoostRadiuspaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#DisBoostRadiuspaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#BoostBombspaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#DisBoostBombspaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#BoostControlpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#BoostSpeedpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#BoostPointpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#DisBoostPointpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#DisBoostSpeedpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#BoostGhostpaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#enemyMaker#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#BoosterMake#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#firepaint#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#setstone#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#ehtemal#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#setbreak#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#helpexplude#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#bombexpluding#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#finding#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#findingbomberman#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#chancyNumber#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#fillingChance#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#idiotmoving#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#bombplanet#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#getbooster#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#resetDetails2changLvl#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#nearestBomberman#0;class#BoardPServer#0" expanded="false" />
+            <element signature="method#makeBomberman#0;class#BoardPServer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoardPSingle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="1305" column="87" lean-forward="false" selection-start-line="1305" selection-start-column="87" selection-end-line="1305" selection-end-column="87" />
+          <folding>
+            <element signature="method#BoardPSingle#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoardPSingle#1;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#paint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#boardpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#boombermanpain#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#enemypaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#bombpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoostRadiuspaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#DisBoostRadiuspaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoostBombspaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#DisBoostBombspaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoostControlpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoostSpeedpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoostPointpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#DisBoostPointpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#DisBoostSpeedpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoostGhostpaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#enemyMaker#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#BoosterMake#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#firepaint#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#keyReleased#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#keyTyped#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#movee#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#save#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#load#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#replace2this#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#setstone#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#ehtemal#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#setbreak#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#helpexplude#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#finding#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#end_game#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#chancyNumber#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#fillingChance#0;class#BoardPSingle#0" expanded="false" />
+            <element signature="method#resetDetails2changLvl#0;class#BoardPSingle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bomberman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="117" column="36" lean-forward="false" selection-start-line="117" selection-start-column="36" selection-end-line="117" selection-end-column="36" />
+          <folding>
+            <element signature="method#permision2move#0;class#Bomberman#0" expanded="false" />
+            <element signature="method#makebombermanalive#0;class#Bomberman#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoosterControlBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoosterGhost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoosterIncreaseBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoosterIncreaseRadius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoosterPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoosterSpeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChatFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chornometr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5659">
+          <caret line="139" column="67" lean-forward="false" selection-start-line="139" selection-start-column="54" selection-end-line="139" selection-end-column="67" />
+          <folding>
+            <element signature="method#main#0;class#Client#0" expanded="false" />
+            <element signature="method#finding#0;class#Client#0" expanded="false" />
+            <element signature="method#findingwithxy#0;class#Client#0" expanded="false" />
+            <element signature="method#findingbbman#0;class#Client#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DisBoosterDecreaseBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DisBoosterDecreaseRadius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DisBoosterPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DisBoosterSpeed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enemy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="64" column="0" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="method#toString#0;class#enemy#0" expanded="false" />
+            <element signature="method#idiotmoving#0;class#enemy#0" expanded="false" />
+            <element signature="method#move2bomberman#0;class#enemy#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enemyLevel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="method#enemyLevel1#0;class#enemyLevel1#0" expanded="false" />
+            <element signature="method#enemyLevel1#1;class#enemyLevel1#0" expanded="false" />
+            <element signature="method#checkPiece2move#0;class#enemyLevel1#0" expanded="false" />
+            <element signature="method#Move#0;class#enemyLevel1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enemyLevel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="method#checkPiece2move#0;class#enemyLevel2#0" expanded="false" />
+            <element signature="method#Move#0;class#enemyLevel2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enemyLevel3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="method#checkPiece2move#0;class#enemyLevel3#0" expanded="false" />
+            <element signature="method#Move#0;class#enemyLevel3#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enemyLevel4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5809">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="method#filler#0;class#GameInfo#0" expanded="false" />
+            <element signature="method#sec2time#0;class#GameInfo#0" expanded="false" />
+            <element signature="method#askexit#0;class#GameInfo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GamePlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-496">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoadFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="766" column="8" lean-forward="true" selection-start-line="766" selection-start-column="8" selection-end-line="766" selection-end-column="8" />
+          <folding>
+            <element signature="method#connectionfinder#0;class#Main#0" expanded="false" />
+            <element signature="method#playmusic#0;class#Main#0" expanded="false" />
+            <element signature="method#main#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="347" column="6" lean-forward="false" selection-start-line="347" selection-start-column="6" selection-end-line="347" selection-end-column="6" />
+          <folding>
+            <element signature="method#main#0;class#MainServer#0" expanded="false" />
+            <element signature="method#makegameThread#0;class#makegameThread#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stuff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ServerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="181" column="6" lean-forward="false" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
+          <folding>
+            <element signature="method#ServerFrame#0;class#ServerFrame#0" expanded="false" />
+            <element signature="method#ServerFrame#1;class#ServerFrame#0" expanded="false" />
+            <element signature="method#finding#0;class#ServerFrame#0" expanded="false" />
+            <element signature="method#boostersave#0;class#ServerThread#0" expanded="false" />
+            <element signature="method#resetDetails2changLvl#0;class#ServerThread#0" expanded="false" />
+            <element signature="method#finding#0;class#ServerThread#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SaveFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="197" column="34" lean-forward="false" selection-start-line="197" selection-start-column="34" selection-end-line="197" selection-end-column="34" />
+          <folding>
+            <element signature="e#4213#4214#0" expanded="true" />
+            <element signature="e#4247#4248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Massage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
