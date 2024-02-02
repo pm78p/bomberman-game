@@ -1,4 +1,4 @@
-(Warning: If you find any content here to be too childish, please remember that this was my first project that required a lot of time, and I was 19 back then. I've grown since then... but hey, who am I kidding? I'm still that same child. :D)
+(Warning: If you find any content here to be too childish, please remember that this was my first project that required a lot of time. I've grown since then... but hey, who am I kidding? I'm still that same child. :D)
 
 __Bomberman Game__
 
