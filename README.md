@@ -1,6 +1,6 @@
 (Warning: If you find any content here to be too childish, please remember that this was my first project that required a lot of time, and I was 19 back then. I've grown since then... but hey, who am I kidding? I'm still that same child. :D)
 
-Bomberman Game
+__Bomberman Game__
 
 This repository contains an implementation of the classic Bomberman game, featuring a client-server architecture achieved through socket programming.
 Features
