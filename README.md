@@ -34,6 +34,7 @@ In this game, you are a bomberman who tries to find its way to the salvation doo
 Preview
 
 Gameplay Preview
+if in any case you wonder, what is all this icon that bomberman eat and nothing happend (huh), don't worry they are different boosters and abilities you can find the details in the (game-info) part.
 ![results](https://github.com/pm78p/bomberman-game/blob/main/src/Media5gif.gif)
 
 !More than 8k lines of codes in java
