@@ -36,6 +36,6 @@ Preview
 Gameplay Preview
 ![results](https://github.com/pm78p/bomberman-game/blob/main/src/Media5gif.gif)
 
-!All the codes in java
+!More than 8k line of codes in java
 (implementation release date: 22/06/2018)
 
