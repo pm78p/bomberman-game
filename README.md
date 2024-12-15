@@ -1,4 +1,4 @@
-(Warning: If you find any content here to be too childish, please remember that this was my first project that required a lot of time. I've grown since then... but hey, who am I kidding? I'm still that same child. :D)
+(Warning: THIS was my first big JAVA project which I'm very proud of however seams to basic nowadays :D)
 
 __Bomberman Game__
 
